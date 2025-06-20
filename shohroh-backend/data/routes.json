@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "name": "Chilonzor Line",
+    "color": "#FF0000",
+    "stationIds": ["1", "2"]
+  }
+] 
